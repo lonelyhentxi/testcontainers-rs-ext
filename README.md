@@ -57,12 +57,6 @@ async fn test () -> Result<()> {
 }
 ```
 
-### Ready-to-use images
-
-The easiest way to use `testcontainers` is to depend on ready-to-use images (aka modules).
-
-Modules are available as a community-maintained crate: [testcontainers-modules](https://github.com/testcontainers/testcontainers-rs-modules-community)
-
 ## License
 
 Licensed under
