@@ -2,6 +2,12 @@
 name = "testcontainers-ext"
 version = "0.1.0"
 edition = "2024"
+description = "Utilities collection of extension traits for testcontainers-rs."
+keywords = ["docker", "testcontainers"]
+authors = ["Yeheng Zhou <master@evernightfireworks.com>"]
+license = "MIT"
+repository = "https://github.com/lonelyhentxi/testcontainers-rs-ext"
+readme = "README.md"
 
 [features]
 default = []
