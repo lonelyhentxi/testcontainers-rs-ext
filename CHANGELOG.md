@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.0] - 2025-04-05
+
+### Added
+
+- Prepare to release
+
+### Other
+
+- Prepare docs
+- First commit
+
 ## [unreleased]
 
 ### 🚀 Features
